@@ -1,4 +1,4 @@
-FROM bbernhard/signal-cli-rest-api:33-pre
+FROM bbernhard/signal-cli-rest-api:33
 
 WORKDIR /data/data/
 
